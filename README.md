@@ -1,7 +1,7 @@
 # React-Web-Portfolio
 A Portfolio of my Web Development Projects built with React
 
-I created a portfolio with react and react router which features a portfolio gallery that displaus projects from a single instance. Other features include a form with a handlesubmit function.
+I created a portfolio with react and react router which features a portfolio gallery that displays projects from a single instance. Other features include a form with a handlesubmit function.
 
 DEPLOY LINK
 https://xanlefee.github.io/React-Web-Portfolio/
