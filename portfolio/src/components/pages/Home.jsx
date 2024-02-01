@@ -21,7 +21,7 @@ As a professional, I continuously strive to integrate the latest industry trends
 
 <h3>Explore my portfolio to see my deployed projects & learn more about me</h3>
 
-      <a href="/assets/Xanthe E Horner - Web CV 2024.pdf" target="_blank" rel="noopener noreferrer"><h3>CV</h3></a>
+      <a href="./assets/XantheEHornerWebCV2024.pdf" target="_blank" rel="noopener noreferrer"><h3>CV</h3></a>
      
  
     </div>
