@@ -1,0 +1,349 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Caprasimo&family=Hedvig+Letters+Serif:opsz@12..24&family=Young+Serif&display=swap');
+
+
+
+
+
+h7 {
+  font-family: 'Caprasimo', serif;
+}
+
+h6, p, h4, h5, h7, li, h2, .form {
+  font-family: 'Hedvig Letters Serif', serif !important;
+}
+
+h3,  h1 {
+  font-family: 'Young Serif', serif !important;
+}
+
+body {
+    
+    background-color: rgb(255, 255, 255) !important;
+}
+
+
+
+
+.nav, nav {
+
+    background-color: rgb(0, 0, 0);
+    
+}
+
+.button {
+    background-color: hotpink !important;
+    border-radius: 20px;
+    border-color: aqua;
+    border-style:solid;
+  
+   
+}
+
+.expand {
+background-color: rgb(203, 203, 203);
+margin-left: 0%;
+border-radius: 10px;
+border: none;
+padding: 1%;
+color: black !important;
+font-family: "Hedvig";
+
+
+}
+
+.btnCenter {
+
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+
+}
+
+.wrap-flex {
+  display: flex;
+  justify-content:center;
+
+}
+.wrap-flexx {
+
+margin-left: 1%;
+
+}
+
+.bi {
+  margin: 1%;
+
+}
+
+
+.wrap-flexi {
+  display: flex;
+  justify-content:space-evenly;
+  margin: 1%;
+  margin-top: 2%;
+
+}
+
+
+
+.wrap-flexy {
+  display: flex;
+  justify-content:space-around;
+
+}
+
+.linkz {
+  color: azure;
+}
+
+.row {
+    padding: 20px;
+}
+
+.input  {
+
+  padding-left: 0px;
+  
+
+
+  }
+
+  .cloud {
+    padding-right: 30px;
+  }
+
+  
+  .form input, .button {
+
+    margin-top: 1%;
+    margin-bottom: 5px;
+    width: 100%;
+    border-color: hotpink;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    
+   
+   
+  }
+
+  textarea {
+    background-color: beige;
+  }
+
+
+ 
+
+    
+  
+  ul {
+    text-align: center;
+    
+    
+  }
+  
+
+  .card {
+   
+    margin-left: 5%;
+    margin-right: 5%;
+    
+   
+  
+  }
+
+  .soloprojectview {
+    width: 70%;
+  }
+
+  .soloimg {
+    display: flex;
+    justify-content:space-around;
+   
+  }
+
+
+
+  @media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    .wrap-flex, #form, .form {
+      
+      display: block;
+      margin-left: 3%;
+      margin-right: 3%;
+      padding-left: 2%;
+      padding-right: 2%;
+
+    }
+    .bi {
+      margin: 1%;
+    }
+
+    .wrap-flexx {
+      display:flex;
+      justify-content: space-between;
+
+    }
+
+    .bunny {
+      margin-left: 1%;
+      display: flex;
+      justify-content: center;
+    }
+
+    .headshot {
+      display: inline-block;
+      width: 300px;
+      height: 300px;
+     
+    }
+
+    .wrap-flexi {
+      display: inline-block;
+      padding: 2%;
+    }
+
+  }
+  .desc {
+    text-align: center;
+  }
+
+
+  .infowrap {
+    padding-left: 6%;
+    padding-right: 6%;
+    padding-top: 1%;
+    padding-bottom: 3%;
+  }
+
+  .projectbig {
+    
+    display: inline-block;
+    justify-content: center;
+  }
+
+  .projsolo {
+
+    
+    display: inline-block;
+    justify-content: center;
+  }
+
+  .card-footer  {
+
+    background-color: rgb(0, 0, 0) !important;
+    color: white !important;
+  }
+
+  .h1 {
+ font-size: xx-large;
+  }
+
+  .tagline {
+    font-style: italic;
+  }
+ 
+.headshot {
+  border-radius: 4%;
+  border-width: 3px;
+
+ margin-right:20px;
+ margin-bottom: 2%;
+  padding: 6px;
+  border-style: dashed;
+  
+
+}
+
+.cloud {
+
+  display: flex;
+  justify-content: center;
+}
+
+.bunny {
+margin-left: 1%;
+
+
+}
+.list {
+  text-align: justify;
+ 
+}
+
+.contactdeets {
+
+ margin-top: 1%;
+ margin-left: 2%;
+}
+
+.central {
+  display: inline-block;
+text-align: center;
+}
+
+.titlestyle {
+  padding-top: 1%;
+  padding-left: 2%;
+}
+
+
+.titlestyle1 {
+  padding-top: 3%;
+  padding-bottom: 2%;
+  text-align: center;
+}
+
+
+.titlestyle2 {
+  font-size: 42px;
+}
+
+
+
+p {
+
+  font-size: 20px;
+
+}
+
+.nav a {
+  color: rgb(166, 159, 159) !important;
+  font-family: 'YoungSerif' !important;
+}
+
+.nav-item,  .nav-link  {
+
+  font-family: 'Times New Roman', Times, serif;
+color: rgb(255, 96, 122) ;
+
+}
+
+
+
+
+.nav a:hover {
+  color: hotpink !important;
+}
+
+
+.nav a:focus {
+  color:rgb(0, 0, 0) !important;
+  outline: none;
+}
+
+a {
+
+  color: hotpink !important;
+
+}
+
+a:hover {
+  color: aquamarine !important;
+}
+.dice {
+  display: flex;
+  justify-content: center;
+  padding: 10%;
+}

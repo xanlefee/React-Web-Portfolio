@@ -1,0 +1,53 @@
+[
+
+    {
+        "id": "1",
+        "title": "Weather Dashboard",
+        "description" : " A weather app that provides the forecast in a given area over 5 days. The user searches for a given area and the data is converted to a button and stored locally to be retrieved on refresh.",
+        "image": "./assets/Weather Dashboard.png",
+        "repolink" : "https://github.com/xanlefee/Weather-API-Dashboard/",
+        "deploylink": "https://xanlefee.github.io/Weather-API-Dashboard/"
+    },
+    {
+        "id": "2",
+        "title": "Workday Scheduler",
+        "description" : "A fun scheduling app that enables you to schedule your workday with ease. Timeblocks are colour-coded so users will make note of what events are in the past, present and future.",
+        "image": "./assets/Scheduler.png",
+        "repolink" : "https://github.com/xanlefee/Work-Day-Scheduler-App/",
+        "deploylink": "https://xanlefee.github.io/Work-Day-Scheduler-App/"
+    },
+    {
+        "id": "3",
+        "title": "Coding Quiz",
+        "description" : "A retro-themed coding quiz that tests the users coding knowledge. A countdown timer is used as the score. Highscores are saved in local storage.",
+        "image": "./assets/Coding Quiz.png",
+        "repolink" : "https://github.com/xanlefee/Web-API-Coding-Quiz/",
+        "deploylink": "https://xanlefee.github.io/Web-API-Coding-Quiz/"
+    },
+    {
+        "id": "4",
+        "title": "Fun Forecast",
+        "description" : "A Webpage for finding out what theatre, music and comedy gigs are in a given area, as well as the weather for the same location.",
+        "image": "./assets/Fun Forecast.png",
+        "repolink" : "https://github.com/xanlefee/Travel-App/",
+        "deploylink": "https://xanlefee.github.io/Travel-App/"
+    },
+    {
+        "id": "5",
+        "title": "Password Generator",
+        "description" : "A responsive password generator that asks prompts to generate a password based on user preferences. The styling is based on the concept of a mysterious cat called Java, who guards a crypt.",
+        "image": "./assets/Password Generator.png",
+        "repolink" : "https://github.com/xanlefee/Javascript-Password-Generator/",
+        "deploylink": "https://xanlefee.github.io/Javascript-Password-Generator/"
+    },
+    {
+        "id": "6",
+        "title": "Team Profile Generator",
+        "description" : "An app that enables users to dynamically generate a html page with styling that displays employee information, including Manager, Engineers and Interns. The project uses the command line interface, node and inquirer.",
+        "image": "./assets/MyTeam.png",
+        "repolink" : "https://github.com/xanlefee/Team-Profile-Generator-1/",
+        "deploylink": ""
+    }
+
+  
+]
